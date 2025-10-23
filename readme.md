@@ -43,7 +43,7 @@ Coffee-Shop-Website/
 ## 🚀 How to Run
 1. Download or clone this repository:  
    ```bash
-   git clone [https://github.com/YourUsername/Coffee-Shop-Website.git](https://lalimue.github.io/coffee_heaven_website/)
+   git clon https://lalimue.github.io/coffee_heaven_website/
 2. Open the project folder.
 3. Run index.html in your browser.
 
@@ -61,3 +61,4 @@ Coffee-Shop-Website/
 Lama Alanazi
 🎓 Information Systems Student
 💻 Passionate about Web Development
+
